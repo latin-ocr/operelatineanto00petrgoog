@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operelatineanto00petrgoog_0007.png"; bbox 0 0 3284 5750; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 604 2283 1046 2370">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 604 2283 1046 2370">
+     <span class='ocr_line' id='line_1_1' title="bbox 604 2283 1046 2370; baseline 0.052 -23"><span class='ocrx_word' id='word_1_1' title='bbox 604 2283 799 2356; x_wconf 66' lang='lat' dir='ltr'>Pflopfflm</span> <span class='ocrx_word' id='word_1_2' title='bbox 830 2314 1046 2370; x_wconf 76' lang='lat' dir='ltr'><strong>LETTERARIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 716 2467 929 2485">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 716 2467 929 2485">
+     <span class='ocr_line' id='line_1_2' title="bbox 716 2467 929 2485; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 716 2467 929 2485; x_wconf 35' lang='grc' dir='ltr'>Ἢ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 533 2720 1028 2773">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 533 2720 1028 2773">
+     <span class='ocr_line' id='line_1_3' title="bbox 533 2720 1028 2773; baseline 0.006 -3"><span class='ocrx_word' id='word_1_4' title='bbox 533 2720 672 2771; x_wconf 67' lang='lat' dir='ltr'>lmen</span> <span class='ocrx_word' id='word_1_5' title='bbox 689 2720 836 2772; x_wconf 69' lang='lat' dir='ltr'>smne!</span> <span class='ocrx_word' id='word_1_6' title='bbox 859 2723 1028 2773; x_wconf 56' lang='lat' dir='ltr'><strong>Antron!</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 271 2936 1292 3216">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 271 2936 1323 3216">
+     <span class='ocr_line' id='line_1_4' title="bbox 271 2936 1292 3216; baseline 0.005 -58"><span class='ocrx_word' id='word_1_7' title='bbox 271 2936 839 3216; x_wconf 79' lang='lat' dir='ltr'><strong>Autologia</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 907 2941 1292 3172; x_wconf 81' lang='lat' dir='ltr'>Latina</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 476 3483 1091 3563">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 476 3483 1091 3563">
+     <span class='ocr_line' id='line_1_5' title="bbox 476 3483 1091 3563; baseline 0.003 -2"><span class='ocrx_word' id='word_1_9' title='bbox 476 3483 561 3561; x_wconf 81' lang='lat' dir='ltr'><strong>dei</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 593 3483 807 3563; x_wconf 70' lang='lat' dir='ltr'><strong>atanasi</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 840 3483 1091 3563; x_wconf 73' lang='lat' dir='ltr'><em>Inferiori</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1646 5750">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1646 5750">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1646 5750; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1646 5750; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
